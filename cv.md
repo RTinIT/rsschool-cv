@@ -61,5 +61,6 @@ highAndLow(str)  // 9 -5
 
 #### Languages:
 - Russian native;
-- English A2 (in progress)
-![www.efset.org](./assets/EFSET%20Results%20test%20English.png)
+- English A2-B1 www.efset.org
+
+![](./assets/english-level.png);
