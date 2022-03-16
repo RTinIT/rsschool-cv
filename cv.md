@@ -29,7 +29,7 @@ I'm an entury-level specialist and I don't have work experience, but my goal is 
 #### Code Example:
 Kata from www.codewars.com "Highest and Lowest"
 
-``` java script
+```
     let str = "1 9 3 4 -5"
     function highAndLow(str) {
         let numArr = str.split(' ');
