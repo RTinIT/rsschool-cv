@@ -1,1 +1,2 @@
-# rsschool-cv
+# rsschool-cv 
+https://rtinit.github.io/rsschool-cv/
