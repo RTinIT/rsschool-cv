@@ -12,7 +12,7 @@
 ---
 
 #### About me:
-I'm an entury-level specialist and I have no work experience, but my goal is to become the best in this direction. I'm constantly in search of new opportunities for self-study. I'm purposeful, fast-learning, stress-resistant, responsible, honest and open.
+I'm an entury-level specialist and I don't have work experience, but my goal is to become the best in this direction. I'm constantly in search of new opportunities for self-study. I'm purposeful, fast-learning, stress-resistant, responsible, honest and open.
 
 ---
 
@@ -45,11 +45,9 @@ highAndLow(str)  // 9 -5
 ---
 
 #### Projects:
-- 
-- 
-- 
-- 
-- 
+- [Movie App](https://rtinit.github.io/movie-app/)
+- [Audio player](https://rtinit.github.io/audio-player/)
+- [Memory Game](https://rtinit.github.io/memory-game/)
 
 ---
 
@@ -63,4 +61,4 @@ highAndLow(str)  // 9 -5
 - Russian native;
 - English A2-B1 www.efset.org
 
-![](./assets/english-level.png);
+![](./assets/english-level.png)
