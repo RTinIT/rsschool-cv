@@ -30,16 +30,16 @@ I'm an entury-level specialist and I don't have work experience, but my goal is 
 Kata from www.codewars.com "Highest and Lowest"
 
 ``` java script
-let str = "1 9 3 4 -5"
-function highAndLow(str) {
-    let numArr = str.split(' ');
-    numArr = numArr.map(elem => elem = Number.parseInt(elem));
-    numArr.sort((a, b) => a - b);
+    let str = "1 9 3 4 -5"
+    function highAndLow(str) {
+        let numArr = str.split(' ');
+        numArr = numArr.map(elem => elem = Number.parseInt(elem));
+        numArr.sort((a, b) => a - b);
+        
+        return `${numArr[numArr.length - 1]} ${numArr[0]}`;
+    }
     
-    return `${numArr[numArr.length - 1]} ${numArr[0]}`;
-}
-
-highAndLow(str)  // 9 -5
+    highAndLow(str)  // 9 -5
 ```
 
 ---
